@@ -21,6 +21,8 @@ In your solution you must provide the following in your Github link account:
 - UML Class Diagram<br>
 - Uploaded java codes for the solution.
 
+UML Class Diagram of Simplified Hotel Management System using Facade Pattern.
+
 ![Facade Pattern UML](https://github.com/brixcyver/facadePattern/assets/142380216/6607607b-b5ee-4819-babe-266146ddb608)
 
 I hope this repository will help you with your possible future tasks that can be implemented using this pattern.
